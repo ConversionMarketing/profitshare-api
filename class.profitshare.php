@@ -1,4 +1,9 @@
 <?php 
+/*
+ * Profitshare API Afiliati
+ * 
+ * https://github.com/itrack/profitshare-api
+ */
 class profitshare {
     
     const API_URL = "http://api.profitshare.ro";
